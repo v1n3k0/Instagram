@@ -17,12 +17,15 @@ import android.view.MenuItem;
 
 import com.parse.FindCallback;
 import com.parse.GetCallback;
+import com.parse.LogInCallback;
 import com.parse.Parse;
 import com.parse.ParseAnalytics;
 import com.parse.ParseException;
 import com.parse.ParseObject;
 import com.parse.ParseQuery;
+import com.parse.ParseUser;
 import com.parse.SaveCallback;
+import com.parse.SignUpCallback;
 
 import java.util.List;
 
@@ -34,72 +37,59 @@ public class MainActivity extends AppCompatActivity {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
 
-    /*
-    ParseObject pontucao = new ParseObject("Pontuacao");
-    pontucao.put("nome", "Maria");
-    pontucao.put("pontos", 150);
-    pontucao.saveInBackground(new SaveCallback() {
-        @Override
-        public void done(ParseException e) {
-            if( e == null ){ // Não temos erro
-                Log.i("salvarPontos","Sucesso.");
-            }else{
-                Log.i("salvarPontos","Erro.");
-            }
-        }
-    });
-    */
+      //********************************************************************************************
+      //Cadastro de usuarios
+      /*ParseUser usuario = new ParseUser();
+      usuario.setUsername("vinicius");
+      usuario.setPassword("123456");
+      usuario.setEmail("vinicius@gmail.com");
 
+      //Cadastrar usuario
+      usuario.signUpInBackground(new SignUpCallback() {
+          @Override
+          public void done(ParseException e) {
+
+              if( e == null ){ //Certo
+
+                  Log.i("cadastroUsuario","Sucesso");
+              }else{ // erro
+                Log.i("cadastroUsuario","Erro: " + e.getMessage() );
+              }
+
+          }
+      });
+        */
+
+      //********************************************************************************************
+      //deslogar
+      //ParseUser.logOut();
       /*
-      ParseQuery<ParseObject> consulta = ParseQuery.getQuery("Pontuacao");
-      consulta.getInBackground("A9vlCc25nb", new GetCallback<ParseObject>() {
+      //Verificar usuario logado
+      if( ParseUser.getCurrentUser() != null ) { //Logado
+          Log.i("loginUsuario","Logado");
+      }else{//off
+          Log.i("loginUsuario","off");
+      }
+       */
+
+      //********************************************************************************************
+      //Fazer login
+
+      ParseUser.logInInBackground("vinicius", "123456", new LogInCallback() {
           @Override
-          public void done(ParseObject object, ParseException e) {
+          public void done(ParseUser user, ParseException e) {
 
-              if( e == null ){ // Não temos erro
-
-                  object.put("pontos", 500);
-                  object.saveInBackground();
-
-                  Log.i("consultaObjeto","Sucesso.");
+              if( e == null ){
+                Log.i("verificaLoginUsuario", "Login com sucesso");
               }else{
-                  Log.i("consultaObjeto","Erro.");
+                  Log.i("verificaLoginUsuario", "Erro ao logar-se: " + e.getMessage() );
               }
 
           }
       });
-    */
 
-      ParseQuery<ParseObject> filtro = ParseQuery.getQuery("Pontuacao");
 
-      //aplicando filtros na lista de objetos
-      //filtro.whereGreaterThan("pontos", 800);
-      filtro.whereGreaterThanOrEqualTo("pontos", 800);
-      //filtro.whereLessThan("pontos", 500);
-      //filtro.whereEndsWith("nome", "ia");
-      //filtro.whereStartsWith("nome", "Ja");
-      //filtro.addAscendingOrder("pontos");
-      filtro.addDescendingOrder("pontos");
-      filtro.setLimit(1);
-
-      //Listar dados
-      filtro.findInBackground(new FindCallback<ParseObject>() {
-          @Override
-          public void done(List<ParseObject> objects, ParseException e) {
-
-              if( e == null ){ // Não temos erro
-
-                  for( ParseObject object: objects ){
-
-                      Log.i("listarDados","Objetos - nome: " + object.get("nome") + " pontos: " + object.get("pontos") );
-                  }
-
-              }else{
-                  Log.i("listarDados","Erro: " + e.getMessage() );
-              }
-
-          }
-      });
+      //********************************************************************************************
 
   }
 
