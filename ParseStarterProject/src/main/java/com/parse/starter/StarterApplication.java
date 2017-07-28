@@ -36,7 +36,7 @@ public class StarterApplication extends Application {
     .build()
     );
 
-
+      /*
       // Teste de configuração do App
       ParseObject pontuacao = new ParseObject("Pontuacao");
       pontuacao.put("pontos", 100);
@@ -49,9 +49,10 @@ public class StarterApplication extends Application {
               }
           }
       });
+      */
 
 
-      ParseUser.enableAutomaticUser();
+      //ParseUser.enableAutomaticUser();
     ParseACL defaultACL = new ParseACL();
     // Optionally enable public read access.
     // defaultACL.setPublicReadAccess(true);
