@@ -4,12 +4,32 @@
         "source": "C:\\Users\\v1n1c\\.android\\build-cache\\32f0de1b5b79559d8d6a372454f3a2d0093d2095\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\v1n1c\\.android\\build-cache\\32f0de1b5b79559d8d6a372454f3a2d0093d2095\\output\\res\\drawable\\abc_switch_thumb_material.xml"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
         "source": "C:\\Users\\v1n1c\\.android\\build-cache\\32f0de1b5b79559d8d6a372454f3a2d0093d2095\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\v1n1c\\.android\\build-cache\\32f0de1b5b79559d8d6a372454f3a2d0093d2095\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\v1n1c\\.android\\build-cache\\32f0de1b5b79559d8d6a372454f3a2d0093d2095\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\v1n1c\\.android\\build-cache\\32f0de1b5b79559d8d6a372454f3a2d0093d2095\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\usuario.png",
+        "source": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\src\\main\\res\\drawable\\usuario.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\v1n1c\\.android\\build-cache\\32f0de1b5b79559d8d6a372454f3a2d0093d2095\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
@@ -32,6 +52,10 @@
         "source": "C:\\Users\\v1n1c\\.android\\build-cache\\32f0de1b5b79559d8d6a372454f3a2d0093d2095\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
     },
     {
+        "merged": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\fundo_caixa_texto.xml",
+        "source": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\src\\main\\res\\drawable\\fundo_caixa_texto.xml"
+    },
+    {
         "merged": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
         "source": "C:\\Users\\v1n1c\\.android\\build-cache\\32f0de1b5b79559d8d6a372454f3a2d0093d2095\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
@@ -40,8 +64,8 @@
         "source": "C:\\Users\\v1n1c\\.android\\build-cache\\32f0de1b5b79559d8d6a372454f3a2d0093d2095\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\Users\\v1n1c\\.android\\build-cache\\32f0de1b5b79559d8d6a372454f3a2d0093d2095\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\fundo_botao.xml",
+        "source": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\src\\main\\res\\drawable\\fundo_botao.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
@@ -64,12 +88,8 @@
         "source": "C:\\Users\\v1n1c\\.android\\build-cache\\32f0de1b5b79559d8d6a372454f3a2d0093d2095\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
-        "source": "C:\\Users\\v1n1c\\.android\\build-cache\\32f0de1b5b79559d8d6a372454f3a2d0093d2095\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\v1n1c\\.android\\build-cache\\32f0de1b5b79559d8d6a372454f3a2d0093d2095\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\fundo_degrade.xml",
+        "source": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\src\\main\\res\\drawable\\fundo_degrade.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
