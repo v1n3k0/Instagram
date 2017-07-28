@@ -6,19 +6,19 @@
     density="xxhdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1501266412825"
+    timestamp="1501267999947"
     token="788642542446074785"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="288" />
+        duration="325" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="30" />
+        duration="31" />
     <task
         name="verifier"
         duration="4" />
@@ -73,7 +73,7 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1501266116725"
+        timestamp="1501267832610"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\outputs\apk\ParseStarterProject-debug.apk"
@@ -81,7 +81,7 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1501266412825"
+        timestamp="1501267999947"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_9.apk"
