@@ -15,12 +15,16 @@ import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import com.parse.FindCallback;
 import com.parse.GetCallback;
+import com.parse.Parse;
 import com.parse.ParseAnalytics;
 import com.parse.ParseException;
 import com.parse.ParseObject;
 import com.parse.ParseQuery;
 import com.parse.SaveCallback;
+
+import java.util.List;
 
 
 public class MainActivity extends AppCompatActivity {
@@ -65,6 +69,38 @@ public class MainActivity extends AppCompatActivity {
           }
       });
     */
+
+      ParseQuery<ParseObject> filtro = ParseQuery.getQuery("Pontuacao");
+
+      //aplicando filtros na lista de objetos
+      //filtro.whereGreaterThan("pontos", 800);
+      filtro.whereGreaterThanOrEqualTo("pontos", 800);
+      //filtro.whereLessThan("pontos", 500);
+      //filtro.whereEndsWith("nome", "ia");
+      //filtro.whereStartsWith("nome", "Ja");
+      //filtro.addAscendingOrder("pontos");
+      filtro.addDescendingOrder("pontos");
+      filtro.setLimit(1);
+
+      //Listar dados
+      filtro.findInBackground(new FindCallback<ParseObject>() {
+          @Override
+          public void done(List<ParseObject> objects, ParseException e) {
+
+              if( e == null ){ // Não temos erro
+
+                  for( ParseObject object: objects ){
+
+                      Log.i("listarDados","Objetos - nome: " + object.get("nome") + " pontos: " + object.get("pontos") );
+                  }
+
+              }else{
+                  Log.i("listarDados","Erro: " + e.getMessage() );
+              }
+
+          }
+      });
+
   }
 
 }
