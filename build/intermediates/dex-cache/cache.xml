@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e4d881a4f21ef3479fc6a03cd48e5208c12609f">
+        <dex dex="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6bf24dfef2b00cb346189882580611ddba5eb5a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\v1n1c\.android\build-cache\32f0de1b5b79559d8d6a372454f3a2d0093d2095\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_250fd00c026f91c77a4402203c1e743217f4333f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\v1n1c\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_4a113ce32a94a243bef7cfaa88584229d40765ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\v1n1c\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.0_0e4360c3d60d45908520759b918089740e1012a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\v1n1c\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\parse-android-1.13.0_e0e2b2067b23e42eebfd011f7cc5dee44994c1e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\v1n1c\.android\build-cache\eccb1857e41bf7c4ba75e25134b70c0a48b44d0e\output\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_751feeec5121e3f5bbf6767729cc91143e3fb14a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_452565bb3ac00e450ec1766944b6150228843424\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\v1n1c\.android\build-cache\eccb1857e41bf7c4ba75e25134b70c0a48b44d0e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_422624d6362b8ef4dacf106e97c9ab1ff666220b\classes.dex" />
+    </item>
+
+</items>

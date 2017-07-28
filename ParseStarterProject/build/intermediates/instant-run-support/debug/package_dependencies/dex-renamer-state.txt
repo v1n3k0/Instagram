@@ -1,0 +1,19 @@
+#Fri Jul 28 14:23:02 BRT 2017
+renamed.5=classes3.dex
+renamed.4=classes6.dex
+renamed.3=classes2.dex
+renamed.2=classes.dex
+renamed.1=classes5.dex
+renamed.0=classes4.dex
+base.5=D\:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_422624d6362b8ef4dacf106e97c9ab1ff666220b
+base.4=D\:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.0_0e4360c3d60d45908520759b918089740e1012a5
+base.3=D\:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_250fd00c026f91c77a4402203c1e743217f4333f
+base.2=D\:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\bolts-tasks-1.4.0_4a113ce32a94a243bef7cfaa88584229d40765ff
+base.1=D\:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\parse-android-1.13.0_e0e2b2067b23e42eebfd011f7cc5dee44994c1e7
+base.0=D\:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.0_751feeec5121e3f5bbf6767729cc91143e3fb14a
+file.5=D\:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_422624d6362b8ef4dacf106e97c9ab1ff666220b\\classes.dex
+file.4=D\:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.0_0e4360c3d60d45908520759b918089740e1012a5\\classes.dex
+file.3=D\:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_250fd00c026f91c77a4402203c1e743217f4333f\\classes.dex
+file.2=D\:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\bolts-tasks-1.4.0_4a113ce32a94a243bef7cfaa88584229d40765ff\\classes.dex
+file.1=D\:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\parse-android-1.13.0_e0e2b2067b23e42eebfd011f7cc5dee44994c1e7\\classes.dex
+file.0=D\:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.0_751feeec5121e3f5bbf6767729cc91143e3fb14a\\classes.dex
