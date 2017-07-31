@@ -6,22 +6,32 @@
     density="xxhdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1501532951651"
+    timestamp="1501534632353"
     token="788642542446074785"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="457" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="49" />
     <task
         name="verifier"
-        duration="0" />
+        duration="8" />
+
+    <artifact
+        location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\outputs\apk\ParseStarterProject-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
@@ -74,8 +84,19 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1501532901694"
+        timestamp="1501534040803"
         verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\outputs\apk\ParseStarterProject-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1501534632353"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
         <artifact
             location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
@@ -83,9 +104,5 @@
             location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\outputs\apk\ParseStarterProject-debug.apk"
             type="SPLIT_MAIN" />
     </build>
-    <build
-        build-mode="COLD"
-        timestamp="1501532951651"
-        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
