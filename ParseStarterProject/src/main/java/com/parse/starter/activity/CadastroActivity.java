@@ -6,16 +6,16 @@ import android.os.Bundle;
 
 import com.parse.starter.R;
 
-public class LoginActivity extends AppCompatActivity {
+public class CadastroActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_login);
+        setContentView(R.layout.activity_cadastro);
     }
 
-    public void abrirCadastraoUsuario(){
-        Intent intent = new Intent(LoginActivity.this, CadastroActivity.class);
+    public void abrirLoginUsuario(){
+        Intent intent = new Intent(CadastroActivity.this, LoginActivity.class);
         startActivity( intent );
     }
 }
