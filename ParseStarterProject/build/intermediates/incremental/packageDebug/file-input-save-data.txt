@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Jul 31 17:13:26 BRT 2017
+#Mon Jul 31 17:28:26 BRT 2017
 122.file=D\:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\abc_slide_out_bottom.xml
 60.set=ANDROID_RESOURCE
 129.file=D\:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png

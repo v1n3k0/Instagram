@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Jul 31 17:13:25 BRT 2017
+#Mon Jul 31 17:28:23 BRT 2017
 122.file=D\:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png
 60.set=ANDROID_RESOURCE
 129.file=D\:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_list_menu_item_layout.xml

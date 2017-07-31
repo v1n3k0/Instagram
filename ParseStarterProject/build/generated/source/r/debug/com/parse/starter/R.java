@@ -2000,8 +2000,8 @@ containing a value of this type.
         public static final int always=0x7f0c001e;
         public static final int basic=0x7f0c000f;
         public static final int beginning=0x7f0c001b;
+        public static final int botao_cadastrar=0x7f0c005b;
         public static final int button=0x7f0c0060;
-        public static final int button2=0x7f0c005b;
         public static final int buttonPanel=0x7f0c003e;
         public static final int cancel_action=0x7f0c0063;
         public static final int chains=0x7f0c0010;
@@ -2018,9 +2018,6 @@ containing a value of this type.
         public static final int dropdown=0x7f0c0024;
         public static final int editText=0x7f0c005e;
         public static final int editText2=0x7f0c005f;
-        public static final int editText3=0x7f0c0058;
-        public static final int editText4=0x7f0c0059;
-        public static final int editText5=0x7f0c005a;
         public static final int edit_query=0x7f0c004a;
         public static final int end=0x7f0c001c;
         public static final int end_padder=0x7f0c006e;
@@ -2081,6 +2078,9 @@ containing a value of this type.
         public static final int textSpacerNoButtons=0x7f0c003b;
         public static final int textView=0x7f0c0061;
         public static final int textView2=0x7f0c005c;
+        public static final int text_email=0x7f0c0059;
+        public static final int text_nome=0x7f0c0058;
+        public static final int text_senha=0x7f0c005a;
         public static final int time=0x7f0c0068;
         public static final int title=0x7f0c0034;
         public static final int title_template=0x7f0c0037;
