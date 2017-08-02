@@ -38,60 +38,6 @@ public class MainActivity extends AppCompatActivity {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
 
-      //********************************************************************************************
-      //Cadastro de usuarios
-      /*ParseUser usuario = new ParseUser();
-      usuario.setUsername("vinicius");
-      usuario.setPassword("123456");
-      usuario.setEmail("vinicius@gmail.com");
-
-      //Cadastrar usuario
-      usuario.signUpInBackground(new SignUpCallback() {
-          @Override
-          public void done(ParseException e) {
-
-              if( e == null ){ //Certo
-
-                  Log.i("cadastroUsuario","Sucesso");
-              }else{ // erro
-                Log.i("cadastroUsuario","Erro: " + e.getMessage() );
-              }
-
-          }
-      });
-        */
-
-      //********************************************************************************************
-      //deslogar
-      //ParseUser.logOut();
-      /*
-      //Verificar usuario logado
-      if( ParseUser.getCurrentUser() != null ) { //Logado
-          Log.i("loginUsuario","Logado");
-      }else{//off
-          Log.i("loginUsuario","off");
-      }
-       */
-
-      //********************************************************************************************
-      //Fazer login
-
-      ParseUser.logInInBackground("vinicius", "123456", new LogInCallback() {
-          @Override
-          public void done(ParseUser user, ParseException e) {
-
-              if( e == null ){
-                Log.i("verificaLoginUsuario", "Login com sucesso");
-              }else{
-                  Log.i("verificaLoginUsuario", "Erro ao logar-se: " + e.getMessage() );
-              }
-
-          }
-      });
-
-
-      //********************************************************************************************
-
   }
 
 }
