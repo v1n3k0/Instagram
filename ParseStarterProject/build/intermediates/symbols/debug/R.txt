@@ -481,9 +481,9 @@ int id always 0x7f0c001e
 int id basic 0x7f0c000f
 int id beginning 0x7f0c001b
 int id botao_cadastrar 0x7f0c005b
-int id button 0x7f0c0060
 int id button2 0x7f0c0063
 int id buttonPanel 0x7f0c003e
+int id button_logar 0x7f0c0060
 int id cancel_action 0x7f0c0065
 int id chains 0x7f0c0010
 int id checkbox 0x7f0c0040
@@ -497,8 +497,8 @@ int id default_activity_button 0x7f0c0031
 int id dialog 0x7f0c0023
 int id disableHome 0x7f0c0015
 int id dropdown 0x7f0c0024
-int id editText 0x7f0c005e
-int id editText2 0x7f0c005f
+int id edit_login_senha 0x7f0c005f
+int id edit_login_usuario 0x7f0c005e
 int id edit_query 0x7f0c004a
 int id end 0x7f0c001c
 int id end_padder 0x7f0c0070
@@ -558,9 +558,9 @@ int id text 0x7f0c006e
 int id text2 0x7f0c006c
 int id textSpacerNoButtons 0x7f0c003b
 int id textView 0x7f0c0061
-int id textView2 0x7f0c005c
 int id textView3 0x7f0c0062
 int id text_email 0x7f0c0059
+int id text_faca_login 0x7f0c005c
 int id text_nome 0x7f0c0058
 int id text_senha 0x7f0c005a
 int id time 0x7f0c006a
