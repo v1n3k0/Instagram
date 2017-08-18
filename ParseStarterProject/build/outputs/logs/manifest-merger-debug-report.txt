@@ -24,8 +24,8 @@ ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\Andro
 application
 ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:15:5-39:19
 MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\v1n1c\.android\build-cache\32f0de1b5b79559d8d6a372454f3a2d0093d2095\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:22.2.0] C:\Users\v1n1c\.android\build-cache\eccb1857e41bf7c4ba75e25134b70c0a48b44d0e\output\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\v1n1c\.android\build-cache\2fd527da6029e1aa3d815d58a95450b8081dded5\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\v1n1c\.android\build-cache\eccb1857e41bf7c4ba75e25134b70c0a48b44d0e\output\AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:19:9-41
 	android:allowBackup
@@ -75,8 +75,8 @@ ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\Andro
 uses-sdk
 INJECTED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\v1n1c\.android\build-cache\32f0de1b5b79559d8d6a372454f3a2d0093d2095\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:22.2.0] C:\Users\v1n1c\.android\build-cache\eccb1857e41bf7c4ba75e25134b70c0a48b44d0e\output\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\v1n1c\.android\build-cache\2fd527da6029e1aa3d815d58a95450b8081dded5\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\v1n1c\.android\build-cache\eccb1857e41bf7c4ba75e25134b70c0a48b44d0e\output\AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
 		INJECTED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
 		INJECTED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml

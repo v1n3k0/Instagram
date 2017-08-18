@@ -10,6 +10,7 @@ package com.parse.starter.activity;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
@@ -18,11 +19,15 @@ import android.view.MenuItem;
 
 import com.parse.ParseUser;
 import com.parse.starter.R;
+import com.parse.starter.adapter.TabsAdapter;
+import com.parse.starter.util.SlidingTabLayout;
 
 
 public class MainActivity extends AppCompatActivity {
 
   private Toolbar toolbarPrincipal;
+  private SlidingTabLayout slidingTabLayout;
+  private ViewPager viewPager;
 
   @Override
   protected void onCreate(Bundle savedInstanceState) {
@@ -34,6 +39,12 @@ public class MainActivity extends AppCompatActivity {
     toolbarPrincipal.setLogo( R.drawable.instagramlogo );
     setSupportActionBar( toolbarPrincipal );
 
+    //Configurar abas
+    slidingTabLayout  = (SlidingTabLayout) findViewById(R.id.sliding_tab_main);
+    viewPager         = (ViewPager) findViewById(R.id.view_pager_main);
+
+    //Configurar adapter
+    TabsAdapter tabsAdapter = new TabsAdapter( getSupportFragmentManager(), this );
 
   }
 
