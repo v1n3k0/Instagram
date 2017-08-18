@@ -6,22 +6,22 @@
     density="xxhdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1501695326457"
+    timestamp="1503081597576"
     token="788642542446074785"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="161" />
+        duration="329" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="14" />
+        duration="26" />
     <task
         name="verifier"
-        duration="2" />
+        duration="3" />
 
     <artifact
         location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_6.apk"
@@ -32,8 +32,20 @@
 
     <build
         build-mode="FULL"
-        timestamp="1501692678485"
+        timestamp="1503080241906"
         verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\outputs\apk\ParseStarterProject-debug.apk"
+            type="SPLIT_MAIN" />
         <artifact
             location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
@@ -42,9 +54,6 @@
             type="SPLIT" />
         <artifact
             location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\split-apk\debug\dep\dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
             location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_1.apk"
@@ -56,40 +65,26 @@
             location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
             location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
             location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
-        <artifact
-            location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\outputs\apk\ParseStarterProject-debug.apk"
-            type="SPLIT_MAIN" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1501693614178"
+        timestamp="1503081230839"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1501694813157"
-        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1501695309824"
+        timestamp="1503081485209"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\outputs\apk\ParseStarterProject-debug.apk"
@@ -97,7 +92,7 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1501695326457"
+        timestamp="1503081597576"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_6.apk"

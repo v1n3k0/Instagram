@@ -68,6 +68,10 @@
         "source": "C:\\Users\\v1n1c\\.android\\build-cache\\32f0de1b5b79559d8d6a372454f3a2d0093d2095\\output\\res\\drawable-xxxhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
+        "merged": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_action_camera.png",
+        "source": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\src\\main\\res\\drawable-xxxhdpi\\ic_action_camera.png"
+    },
+    {
         "merged": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png",
         "source": "C:\\Users\\v1n1c\\.android\\build-cache\\32f0de1b5b79559d8d6a372454f3a2d0093d2095\\output\\res\\drawable-xxxhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
