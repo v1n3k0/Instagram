@@ -8,12 +8,12 @@
         "source": "C:\\Users\\v1n1c\\.android\\build-cache\\32f0de1b5b79559d8d6a372454f3a2d0093d2095\\output\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png",
-        "source": "C:\\Users\\v1n1c\\.android\\build-cache\\32f0de1b5b79559d8d6a372454f3a2d0093d2095\\output\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png",
         "source": "C:\\Users\\v1n1c\\.android\\build-cache\\32f0de1b5b79559d8d6a372454f3a2d0093d2095\\output\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\v1n1c\\.android\\build-cache\\32f0de1b5b79559d8d6a372454f3a2d0093d2095\\output\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png",
@@ -96,6 +96,10 @@
         "source": "C:\\Users\\v1n1c\\.android\\build-cache\\32f0de1b5b79559d8d6a372454f3a2d0093d2095\\output\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
+        "merged": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_home.png",
+        "source": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\src\\main\\res\\drawable-hdpi\\ic_action_home.png"
+    },
+    {
         "merged": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png",
         "source": "C:\\Users\\v1n1c\\.android\\build-cache\\32f0de1b5b79559d8d6a372454f3a2d0093d2095\\output\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
     },
@@ -110,6 +114,10 @@
     {
         "merged": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png",
         "source": "C:\\Users\\v1n1c\\.android\\build-cache\\32f0de1b5b79559d8d6a372454f3a2d0093d2095\\output\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_people.png",
+        "source": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\src\\main\\res\\drawable-hdpi\\ic_people.png"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png",
