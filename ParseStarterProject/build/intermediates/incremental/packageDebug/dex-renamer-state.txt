@@ -1,4 +1,4 @@
-#Fri Aug 18 16:12:37 BRT 2017
+#Fri Aug 18 17:09:27 BRT 2017
 base.0=D\:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_452565bb3ac00e450ec1766944b6150228843424
 renamed.1=classes2.dex
 renamed.0=classes.dex

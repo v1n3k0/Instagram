@@ -36,6 +36,10 @@
         "source": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\src\\main\\res\\layout\\toolbar.xml"
     },
     {
+        "merged": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
         "merged": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
         "source": "C:\\Users\\v1n1c\\.android\\build-cache\\32f0de1b5b79559d8d6a372454f3a2d0093d2095\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
@@ -58,6 +62,10 @@
     {
         "merged": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
         "source": "C:\\Users\\v1n1c\\.android\\build-cache\\32f0de1b5b79559d8d6a372454f3a2d0093d2095\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_usuarios.xml",
+        "source": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\src\\main\\res\\layout\\fragment_usuarios.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
@@ -94,6 +102,10 @@
     {
         "merged": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
         "source": "C:\\Users\\v1n1c\\.android\\build-cache\\32f0de1b5b79559d8d6a372454f3a2d0093d2095\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\tabs_view.xml",
+        "source": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\src\\main\\res\\layout\\tabs_view.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
