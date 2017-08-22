@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86"
-    api-level="23"
-    build-mode="COLD"
+    abi="x86_64,x86"
+    api-level="22"
+    build-mode="FULL"
     density="420dpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1503344547062"
+    timestamp="1503403288283"
     token="788642542446074785"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
@@ -23,10 +23,50 @@
         name="verifier"
         duration="0" />
 
+    <artifact
+        location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\outputs\apk\ParseStarterProject-debug.apk"
+        type="SPLIT_MAIN" />
+    <artifact
+        location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+
     <build
         build-mode="FULL"
-        timestamp="1503344233419"
+        timestamp="1503403288283"
         verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\outputs\apk\ParseStarterProject-debug.apk"
+            type="SPLIT_MAIN" />
         <artifact
             location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
@@ -60,24 +100,6 @@
         <artifact
             location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
-        <artifact
-            location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\outputs\apk\ParseStarterProject-debug.apk"
-            type="SPLIT_MAIN" />
     </build>
-    <build
-        build-mode="COLD"
-        timestamp="1503344331833"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\AndroidStudioProjects\Instagram\ParseStarterProject\build\outputs\apk\ParseStarterProject-debug.apk"
-            type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1503344547062"
-        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
