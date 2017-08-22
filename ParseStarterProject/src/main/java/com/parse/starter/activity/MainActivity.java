@@ -9,6 +9,8 @@
 package com.parse.starter.activity;
 
 import android.content.Intent;
+import android.graphics.Bitmap;
+import android.net.Uri;
 import android.os.Bundle;
 import android.provider.MediaStore;
 import android.support.v4.view.ViewPager;
@@ -17,11 +19,21 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
+import android.widget.Toast;
 
+import com.parse.ParseException;
+import com.parse.ParseFile;
+import com.parse.ParseObject;
 import com.parse.ParseUser;
+import com.parse.SaveCallback;
 import com.parse.starter.R;
 import com.parse.starter.adapter.TabsAdapter;
 import com.parse.starter.util.SlidingTabLayout;
+
+import java.io.ByteArrayOutputStream;
+import java.io.IOException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 
 
 public class MainActivity extends AppCompatActivity {
@@ -92,7 +104,45 @@ public class MainActivity extends AppCompatActivity {
     //Testar processo de retorno de dados
     if( requestCode == 1 && resultCode == RESULT_OK && data != null ){
 
+      //Recuperar local do recurso
+      Uri localImagem = data.getData();
 
+      try {
+        Bitmap imagem = MediaStore.Images.Media.getBitmap(getContentResolver(), localImagem);
+
+        //Comprimir no formato PNG
+        ByteArrayOutputStream stream = new ByteArrayOutputStream();
+        imagem.compress(Bitmap.CompressFormat.PNG, 75, stream);
+
+        //Criar um array de bytes para imagem
+        byte[] byteArray = stream.toByteArray();
+
+        //Criar um arquivo proprio  do PARSE
+        SimpleDateFormat dateFormat = new SimpleDateFormat("ddmmaaaahhss");
+        String nomeImagem = dateFormat.format(new Date());
+        ParseFile arquivoParse = new ParseFile(nomeImagem + "imagem.png", byteArray);
+
+        //Monte o objeto para salvar PARSE
+        ParseObject parseObject = new ParseObject("Imagem");
+        parseObject.put("username", ParseUser.getCurrentUser().getUsername());
+        parseObject.put("imagem", arquivoParse);
+
+        //Salvar os dados
+        parseObject.saveInBackground(new SaveCallback() {
+          @Override
+          public void done(ParseException e) {
+            if (e == null) {
+              Toast.makeText(getApplicationContext(), "Sua imagem foi postado!", Toast.LENGTH_LONG).show();
+            } else {
+              Toast.makeText(getApplicationContext(), "Erro ao postar imagem  - tente novamente!", Toast.LENGTH_LONG).show();
+            }
+
+          }
+        });
+
+      } catch (IOException e) {
+        e.printStackTrace();
+      }
 
     }
 

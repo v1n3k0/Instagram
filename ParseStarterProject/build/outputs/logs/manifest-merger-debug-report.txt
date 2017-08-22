@@ -21,10 +21,10 @@ uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:13:5-79
 	android:name
 		ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:13:22-76
-uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:14:5-81
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:14:5-80
 	android:name
-		ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:14:22-78
+		ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:14:22-77
 application
 ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:16:5-40:19
 MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\v1n1c\.android\build-cache\32f0de1b5b79559d8d6a372454f3a2d0093d2095\output\AndroidManifest.xml:22:5-20
