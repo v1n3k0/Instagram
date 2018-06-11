@@ -7,7 +7,10 @@
   ~ of patent rights can be found in the PATENTS file in the same directory.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="com.parse.starter">
+
+    <uses-sdk android:targetSdkVersion="22" android:minSdkVersion="14" tools:overrideLibrary="it.gmariotti.cardslib.library"/>
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />

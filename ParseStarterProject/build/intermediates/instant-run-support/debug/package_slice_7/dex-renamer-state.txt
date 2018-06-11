@@ -1,4 +1,0 @@
-#Tue Aug 22 08:48:15 BRT 2017
-base.0=D\:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7
-renamed.0=classes.dex
-file.0=D\:\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7\\classes.dex

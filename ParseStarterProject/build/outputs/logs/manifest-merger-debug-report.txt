@@ -1,89 +1,145 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-42:12
+ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-45:12
+INJECTED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-45:12
+INJECTED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-45:12
+INJECTED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-45:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d12cb12fbbcbd2600dae21e78a9d07a2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\bc82dea151851c4c3dffb691fdced611\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\b6270185bfc0f72d79885c578bd8753c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\518d5af253e39a7873e5ed9b751e5cf6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2b9b3ab820cbc1a3168a67c6254a6e4d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f0ba8473cf89bec4002f2c13f612cf3c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\0a8ca4059fc56c13bbf023a5af690e85\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\848d6af7eb28a3c827358350928c05ed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\12ad4199e12154ea438b9e0e4045ccc8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\06293d912dfec88e49d8f1beedb40e3a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c3ca17ca0a464f5996ab1e489eee6e13\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8aa4102cb433a6169498a4502e0b3c92\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\473cdea70772843a504fa07ff5151dd5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4704b02c571b0fb6947781efe1dc8434\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-45:12
+INJECTED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-45:12
+INJECTED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-45:12
 	package
-		ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:10:5-32
-		INJECTED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:11:5-32
+		INJECTED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
-	xmlns:android
-		ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:11-69
+		INJECTED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-45:12
+		INJECTED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:10:5-51
 	android:versionCode
-		INJECTED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
-uses-permission#android.permission.INTERNET
-ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:12:5-67
-	android:name
-		ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:12:22-64
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:13:5-79
-	android:name
-		ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:13:22-76
-uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:14:5-80
-	android:name
-		ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:14:22-77
-application
-ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:16:5-40:19
-MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\v1n1c\.android\build-cache\32f0de1b5b79559d8d6a372454f3a2d0093d2095\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\v1n1c\.android\build-cache\2fd527da6029e1aa3d815d58a95450b8081dded5\output\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:support-v4:22.2.0] C:\Users\v1n1c\.android\build-cache\eccb1857e41bf7c4ba75e25134b70c0a48b44d0e\output\AndroidManifest.xml:22:5-20
-	android:label
-		ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:20:9-41
-	android:allowBackup
-		ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:18:9-35
-	android:icon
-		ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:19:9-43
-	android:theme
-		ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:21:9-40
-	android:name
-		ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:17:9-43
-meta-data#com.parse.APPLICATION_ID
-ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:22:9-24:52
-	android:value
-		ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:24:13-49
-	android:name
-		ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:23:13-52
-meta-data#com.parse.CLIENT_KEY
-ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:25:9-27:56
-	android:value
-		ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:27:13-53
-	android:name
-		ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:26:13-48
-activity#com.parse.starter.activity.LoginActivity
-ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:29:9-37:20
-	android:label
-		ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:31:13-45
-	android:name
-		ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:30:13-51
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:32:13-36:29
-action#android.intent.action.MAIN
-ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:33:17-69
-	android:name
-		ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:33:25-66
-category#android.intent.category.LAUNCHER
-ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:35:17-77
-	android:name
-		ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:35:27-74
-activity#com.parse.starter.activity.MainActivity
-ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:38:9-59
-	android:name
-		ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:38:19-56
-activity#com.parse.starter.activity.CadastroActivity
-ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:39:9-72
-	android:name
-		ADDED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:39:19-60
+		INJECTED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-45:12
+		INJECTED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:11-69
 uses-sdk
-INJECTED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\v1n1c\.android\build-cache\32f0de1b5b79559d8d6a372454f3a2d0093d2095\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\v1n1c\.android\build-cache\2fd527da6029e1aa3d815d58a95450b8081dded5\output\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-v4:22.2.0] C:\Users\v1n1c\.android\build-cache\eccb1857e41bf7c4ba75e25134b70c0a48b44d0e\output\AndroidManifest.xml:20:5-43
+ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:13:5-127
+INJECTED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:13:5-127
+INJECTED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:13:5-127
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d12cb12fbbcbd2600dae21e78a9d07a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d12cb12fbbcbd2600dae21e78a9d07a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\bc82dea151851c4c3dffb691fdced611\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\bc82dea151851c4c3dffb691fdced611\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\b6270185bfc0f72d79885c578bd8753c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\b6270185bfc0f72d79885c578bd8753c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\518d5af253e39a7873e5ed9b751e5cf6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\518d5af253e39a7873e5ed9b751e5cf6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2b9b3ab820cbc1a3168a67c6254a6e4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2b9b3ab820cbc1a3168a67c6254a6e4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f0ba8473cf89bec4002f2c13f612cf3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f0ba8473cf89bec4002f2c13f612cf3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\0a8ca4059fc56c13bbf023a5af690e85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\0a8ca4059fc56c13bbf023a5af690e85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\848d6af7eb28a3c827358350928c05ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\848d6af7eb28a3c827358350928c05ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\12ad4199e12154ea438b9e0e4045ccc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\12ad4199e12154ea438b9e0e4045ccc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\06293d912dfec88e49d8f1beedb40e3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\06293d912dfec88e49d8f1beedb40e3a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c3ca17ca0a464f5996ab1e489eee6e13\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c3ca17ca0a464f5996ab1e489eee6e13\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8aa4102cb433a6169498a4502e0b3c92\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8aa4102cb433a6169498a4502e0b3c92\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\473cdea70772843a504fa07ff5151dd5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\473cdea70772843a504fa07ff5151dd5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4704b02c571b0fb6947781efe1dc8434\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4704b02c571b0fb6947781efe1dc8434\AndroidManifest.xml:20:5-44
+INJECTED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:13:5-127
+INJECTED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:13:5-127
+	tools:overrideLibrary
+		ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:13:72-125
 	android:targetSdkVersion
-		INJECTED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:13:15-44
+		INJECTED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:13:45-71
+		INJECTED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:15:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:17:5-80
+	android:name
+		ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:17:22-77
+application
+ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:19:5-43:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\bc82dea151851c4c3dffb691fdced611\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\bc82dea151851c4c3dffb691fdced611\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:24:9-40
+	android:name
+		ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:20:9-43
+meta-data#com.parse.APPLICATION_ID
+ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:25:9-27:52
+	android:value
+		ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:27:13-49
+	android:name
+		ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:26:13-52
+meta-data#com.parse.CLIENT_KEY
+ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:28:9-30:56
+	android:value
+		ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:30:13-53
+	android:name
+		ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:29:13-48
+activity#com.parse.starter.activity.LoginActivity
+ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:32:9-40:20
+	android:label
+		ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:33:13-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:38:27-74
+activity#com.parse.starter.activity.MainActivity
+ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:41:9-59
+	android:name
+		ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:41:19-56
+activity#com.parse.starter.activity.CadastroActivity
+ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:42:9-72
+	android:name
+		ADDED from E:\vineko\Documents\StudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:42:19-60
